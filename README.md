@@ -37,7 +37,7 @@ PS. we will have another id element in the database. That is used to perform the
 
 Run the following command to create a model: 
 ```
-rails g model book b_title author year publisher
+rails g model Book B_title Author Year Publisher
 ```
 The following files will be created on running the command: 
 
