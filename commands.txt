@@ -1,0 +1,7 @@
+rails new booksapp --api
+
+Create a database to store the details of books.
+ Book[B_id, B_title, Author, Publisher, Year]
+
+
+ 
