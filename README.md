@@ -165,4 +165,4 @@ rails s
 ## Individual Contributions
 1. Ajay P Sakthikumar - POST, DELETE
 2. Soujanya Namburi - PUT, Routes, Database
-3. Sreelakshmi - GET, GET with id
+3. Sreelakshmi K - GET, GET with id
