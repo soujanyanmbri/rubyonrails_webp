@@ -166,3 +166,5 @@ rails s
 1. Ajay P Sakthikumar - POST, DELETE
 2. Soujanya Namburi - PUT, Routes, Database
 3. Sreelakshmi K - GET, GET with id
+
+Testing - All together
