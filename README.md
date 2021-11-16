@@ -5,6 +5,11 @@
 <h3>
 <center> <bold>Submitted by:</bold> Group 3</center>
 </h3>
+<ul>
+    <li> Soujanya Namburi </li>
+    <li> Sreelakshmi K </li>
+    <li> Ajay P Sakthikumar </li>
+</ul>
 <hr /> 
 
 [Click here for the code](https://github.com/soujanyanmbri/rubyonrails_webp)
